@@ -1,0 +1,13 @@
+{
+  "budget_w": 120,
+  "reserve_percent": 20,
+  "poe_ports": 8,
+  "devices": [
+    {"port": 1, "pse_w": 15, "port_limit_w": 30},
+    {"port": 2, "pse_w": 15, "port_limit_w": 30},
+    {"port": 3, "pse_w": 15, "port_limit_w": 30},
+    {"port": 4, "pse_w": 15, "port_limit_w": 30},
+    {"port": 5, "pse_w": 25, "port_limit_w": 30},
+    {"port": 6, "pse_w": 25, "port_limit_w": 30}
+  ]
+}
