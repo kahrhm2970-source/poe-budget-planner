@@ -1,0 +1,14 @@
+{
+  "status": "REVIEW",
+  "allocated_ports": 6,
+  "free_poe_ports": 2,
+  "demand_w": "110",
+  "budget_w": "120",
+  "planning_limit_w": "96",
+  "remaining_physical_w": "10",
+  "remaining_planning_w": "-14",
+  "over_limit_ports": [],
+  "physical_budget_ok": true,
+  "reserve_target_met": false,
+  "note": "Arithmetic estimate only. Verify PSE allocations, standards, cable loss, startup load and hardware specifications."
+}
